@@ -1,0 +1,5 @@
+python: can't open file 'C:\\Users\\lee.s.61\\Procter and Gamble\\PO priority - Project Eagles\\data\\databricks_data_fetch.py': [Errno 2] No such file or directory
+[Thu 09/11/2025  2:50:18.75] databricks_data_fetch.py failed with error code 2 
+python: can't open file 'C:\\Users\\lee.s.61\\Procter and Gamble\\PO priority - Project Eagles\\data\\forecast_data_fetch.py': [Errno 2] No such file or directory
+[Thu 09/11/2025  2:50:19.24] forecast_data_fetch.py failed with error code 2 
+[Thu 09/11/2025  2:50:19.27] Data fetch batch completed 
