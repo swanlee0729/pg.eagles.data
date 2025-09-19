@@ -1,12 +1,11 @@
 {
   "tasks": {
     "1-B": {
-      "status": "completed",
-      "completedBy": "lee.s.61@pg.com",
-      "timestamp": "2025-09-19T05:16:42.007Z",
-      "lastUpdated": "2025-09-19T05:16:42.376Z"
+      "status": "pending",
+      "timestamp": "2025-09-19T05:16:49.855Z",
+      "lastUpdated": "2025-09-19T05:16:50.149Z"
     }
   },
-  "lastUpdated": "2025-09-19T05:16:42.376Z",
+  "lastUpdated": "2025-09-19T05:16:50.149Z",
   "initiativeId": "1.8l_in-house(phase_2)"
 }
