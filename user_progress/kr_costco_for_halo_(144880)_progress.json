@@ -6,6 +6,12 @@
       "timestamp": "2025-09-23T08:02:57.908Z",
       "lastUpdated": "2025-09-23T08:02:58.374Z"
     },
+    "4": {
+      "status": "completed",
+      "completedBy": "lee.s.61@pg.com",
+      "timestamp": "2025-09-23T08:03:05.249Z",
+      "lastUpdated": "2025-09-23T08:03:05.631Z"
+    },
     "1-A": {
       "status": "completed",
       "completedBy": "lee.s.61@pg.com",
@@ -31,6 +37,6 @@
       "lastUpdated": "2025-09-23T08:02:46.890Z"
     }
   },
-  "lastUpdated": "2025-09-23T08:02:58.374Z",
+  "lastUpdated": "2025-09-23T08:03:05.631Z",
   "initiativeId": "kr_costco_for_halo_(144880)"
 }
