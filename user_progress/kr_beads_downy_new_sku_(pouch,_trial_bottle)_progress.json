@@ -7,11 +7,12 @@
       "lastUpdated": "2025-09-24T03:40:04.869Z"
     },
     "1-B": {
-      "status": "pending",
-      "timestamp": "2025-09-24T03:40:29.140Z",
-      "lastUpdated": "2025-09-24T03:40:29.567Z"
+      "status": "completed",
+      "completedBy": "choi.m@pg.com",
+      "timestamp": "2025-09-24T03:40:31.764Z",
+      "lastUpdated": "2025-09-24T03:40:32.111Z"
     }
   },
-  "lastUpdated": "2025-09-24T03:40:29.567Z",
+  "lastUpdated": "2025-09-24T03:40:32.111Z",
   "initiativeId": "kr_beads_downy_new_sku_(pouch,_trial_bottle)"
 }
